@@ -1,0 +1,6 @@
+{
+  "name": "Blanker",
+  "description": "A tool to open any website in an about:blank page to bypass simple school filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
